@@ -1,5 +1,5 @@
 backend:
-  replicaCount: 1
+  replicaCount: 2
   image:
     repository: 545009835959.dkr.ecr.eu-central-1.amazonaws.com/clahanbackend
     tag: latest
